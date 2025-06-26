@@ -20,13 +20,13 @@
     font-size: 30px;
     text-align: center;
     background-color: chartreuse;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .navbar{
     height: 77px;
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 
     display: flex;
     justify-content: space-around;
